@@ -15,7 +15,7 @@ Development Steps:
 * Add Dependencies; 
 * Project Structure; 
 * Application Properties Setup; 
-* Create a Entities - Student.java, Teacher.java; 
+* Create a Entities - Student.java, Teacher.java, util.Hint.java; 
 * Create a StudentRepository.java, TeacherRepository; 
 * Create a StudentService.java, TeacherService.java;
 * Create a HomeController.java, StudentController.java, TeacherController.java 

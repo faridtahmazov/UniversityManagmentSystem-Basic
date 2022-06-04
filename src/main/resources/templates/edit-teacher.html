@@ -36,7 +36,7 @@
         <div class="col-md-6 offset-md-3">
             <div class="card">
                 <div class="card-body">
-                    <h4 class="text-center text-dark">New Teacher</h4>
+                    <h4 class="text-center text-dark">Edit Teacher</h4>
 
                     <form th:action="@{/updateTeacher}" method="post" th:object="${teacher}">
                         <input type="hidden" th:value="${teacher.id}" name="id">
